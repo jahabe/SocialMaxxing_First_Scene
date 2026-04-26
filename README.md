@@ -11,6 +11,8 @@ We built SocialMaxxing entirely in Unity, combining custom C# scripts with Unity
 
 Unity assets we utilized: [School (setting)](https://assetstore.unity.com/packages/3d/environments/school-assets-146253#publisher), [Start scene map](https://assetstore.unity.com/packages/3d/environments/prototype-map-315588)
 
+UI Images: hand-drawn by the team and refined with ChatGPT
+
 ## Challenges we ran into
 * Limited prior experience with Unity
 * Setting up the physics system, camera, UI, and scripting took longer than expected
